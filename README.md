@@ -15,13 +15,15 @@ Youtube Video Downloader base on Python 3
 2. Make sure Python 3.xx is installed
 3. Install the dependencies
    ```sh
-    pip install yt-dlp tkinter
+   pip install yt-dlp tkinter
    ```
 4. Run the program with two method:
    ```sh
-    bash run.sh
+   bash run.sh
    ```
    or
    ```sh
-    python3 yt-dl.py
+   python3 yt-dl.py
    ```
+
+<p align="center">Made with Love ❤️</p>
